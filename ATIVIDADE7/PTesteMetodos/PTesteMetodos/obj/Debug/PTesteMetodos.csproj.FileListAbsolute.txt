@@ -1,0 +1,12 @@
+C:\Users\0030482321026\source\repos\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.exe.config
+C:\Users\0030482321026\source\repos\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.exe
+C:\Users\0030482321026\source\repos\PTesteMetodos\PTesteMetodos\bin\Debug\PTesteMetodos.pdb
+C:\Users\0030482321026\source\repos\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.AssemblyReference.cache
+C:\Users\0030482321026\source\repos\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmPrincipal.resources
+C:\Users\0030482321026\source\repos\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.Properties.Resources.resources
+C:\Users\0030482321026\source\repos\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.GenerateResource.cache
+C:\Users\0030482321026\source\repos\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.csproj.CoreCompileInputs.cache
+C:\Users\0030482321026\source\repos\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.exe
+C:\Users\0030482321026\source\repos\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.pdb
+C:\Users\0030482321026\source\repos\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio2.resources
+C:\Users\0030482321026\source\repos\PTesteMetodos\PTesteMetodos\obj\Debug\PTesteMetodos.frmExercicio3.resources
