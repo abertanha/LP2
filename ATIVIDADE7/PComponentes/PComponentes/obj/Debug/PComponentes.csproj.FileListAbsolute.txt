@@ -1,0 +1,10 @@
+C:\Users\0030482321026\source\repos\PComponentes\PComponentes\bin\Debug\PComponentes.exe.config
+C:\Users\0030482321026\source\repos\PComponentes\PComponentes\bin\Debug\PComponentes.exe
+C:\Users\0030482321026\source\repos\PComponentes\PComponentes\bin\Debug\PComponentes.pdb
+C:\Users\0030482321026\source\repos\PComponentes\PComponentes\obj\Debug\PComponentes.csproj.AssemblyReference.cache
+C:\Users\0030482321026\source\repos\PComponentes\PComponentes\obj\Debug\PComponentes.Form1.resources
+C:\Users\0030482321026\source\repos\PComponentes\PComponentes\obj\Debug\PComponentes.Properties.Resources.resources
+C:\Users\0030482321026\source\repos\PComponentes\PComponentes\obj\Debug\PComponentes.csproj.GenerateResource.cache
+C:\Users\0030482321026\source\repos\PComponentes\PComponentes\obj\Debug\PComponentes.csproj.CoreCompileInputs.cache
+C:\Users\0030482321026\source\repos\PComponentes\PComponentes\obj\Debug\PComponentes.exe
+C:\Users\0030482321026\source\repos\PComponentes\PComponentes\obj\Debug\PComponentes.pdb
