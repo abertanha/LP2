@@ -41,6 +41,7 @@
             this.rtbTexto.Size = new System.Drawing.Size(243, 156);
             this.rtbTexto.TabIndex = 0;
             this.rtbTexto.Text = "";
+            this.rtbTexto.TextChanged += new System.EventHandler(this.rtbTexto_TextChanged);
             // 
             // btnNumero
             // 
@@ -56,12 +57,13 @@
             // btnBranco
             // 
             this.btnBranco.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnBranco.Location = new System.Drawing.Point(61, 191);
+            this.btnBranco.Location = new System.Drawing.Point(61, 178);
             this.btnBranco.Name = "btnBranco";
-            this.btnBranco.Size = new System.Drawing.Size(128, 62);
+            this.btnBranco.Size = new System.Drawing.Size(128, 88);
             this.btnBranco.TabIndex = 2;
             this.btnBranco.Text = "Posição do Caracter Branco";
             this.btnBranco.UseVisualStyleBackColor = true;
+            this.btnBranco.Click += new System.EventHandler(this.btnBranco_Click);
             // 
             // btnAlfa
             // 
@@ -72,6 +74,7 @@
             this.btnAlfa.TabIndex = 3;
             this.btnAlfa.Text = "Quantidade de Letras";
             this.btnAlfa.UseVisualStyleBackColor = true;
+            this.btnAlfa.Click += new System.EventHandler(this.btnAlfa_Click);
             // 
             // frmExercicio4
             // 

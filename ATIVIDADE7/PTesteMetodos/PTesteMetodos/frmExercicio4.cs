@@ -62,7 +62,7 @@ namespace PTesteMetodos
                 {
                     cont = i + 1;
                     MessageBox.Show("O caracter espaço branco se encontra na " + " " + cont.ToString() + "° " + "posição");
-            }
+                }
             cont = 0;
         }
     }
