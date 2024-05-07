@@ -1,0 +1,10 @@
+C:\Users\0030482321026\source\repos\PTesteFormat\PTesteFormat\bin\Debug\PTesteFormat.exe.config
+C:\Users\0030482321026\source\repos\PTesteFormat\PTesteFormat\bin\Debug\PTesteFormat.exe
+C:\Users\0030482321026\source\repos\PTesteFormat\PTesteFormat\bin\Debug\PTesteFormat.pdb
+C:\Users\0030482321026\source\repos\PTesteFormat\PTesteFormat\obj\Debug\PTesteFormat.csproj.AssemblyReference.cache
+C:\Users\0030482321026\source\repos\PTesteFormat\PTesteFormat\obj\Debug\PTesteFormat.Form1.resources
+C:\Users\0030482321026\source\repos\PTesteFormat\PTesteFormat\obj\Debug\PTesteFormat.Properties.Resources.resources
+C:\Users\0030482321026\source\repos\PTesteFormat\PTesteFormat\obj\Debug\PTesteFormat.csproj.GenerateResource.cache
+C:\Users\0030482321026\source\repos\PTesteFormat\PTesteFormat\obj\Debug\PTesteFormat.csproj.CoreCompileInputs.cache
+C:\Users\0030482321026\source\repos\PTesteFormat\PTesteFormat\obj\Debug\PTesteFormat.exe
+C:\Users\0030482321026\source\repos\PTesteFormat\PTesteFormat\obj\Debug\PTesteFormat.pdb
