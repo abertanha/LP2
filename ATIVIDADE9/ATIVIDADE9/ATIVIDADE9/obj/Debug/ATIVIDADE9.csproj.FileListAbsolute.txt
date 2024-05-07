@@ -1,0 +1,11 @@
+C:\Users\0030482321026\source\repos\ATIVIDADE9\ATIVIDADE9\bin\Debug\ATIVIDADE9.exe.config
+C:\Users\0030482321026\source\repos\ATIVIDADE9\ATIVIDADE9\bin\Debug\ATIVIDADE9.exe
+C:\Users\0030482321026\source\repos\ATIVIDADE9\ATIVIDADE9\bin\Debug\ATIVIDADE9.pdb
+C:\Users\0030482321026\source\repos\ATIVIDADE9\ATIVIDADE9\obj\Debug\ATIVIDADE9.csproj.AssemblyReference.cache
+C:\Users\0030482321026\source\repos\ATIVIDADE9\ATIVIDADE9\obj\Debug\ATIVIDADE9.Form1.resources
+C:\Users\0030482321026\source\repos\ATIVIDADE9\ATIVIDADE9\obj\Debug\ATIVIDADE9.Properties.Resources.resources
+C:\Users\0030482321026\source\repos\ATIVIDADE9\ATIVIDADE9\obj\Debug\ATIVIDADE9.csproj.GenerateResource.cache
+C:\Users\0030482321026\source\repos\ATIVIDADE9\ATIVIDADE9\obj\Debug\ATIVIDADE9.csproj.CoreCompileInputs.cache
+C:\Users\0030482321026\source\repos\ATIVIDADE9\ATIVIDADE9\obj\Debug\ATIVIDADE9.exe
+C:\Users\0030482321026\source\repos\ATIVIDADE9\ATIVIDADE9\obj\Debug\ATIVIDADE9.pdb
+C:\Users\0030482321026\source\repos\ATIVIDADE9\ATIVIDADE9\obj\Debug\ATIVIDADE9.frmExercicio4.resources
