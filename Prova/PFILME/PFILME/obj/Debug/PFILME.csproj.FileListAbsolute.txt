@@ -1,0 +1,10 @@
+C:\Users\0030482321026\source\repos\PFILME\PFILME\obj\Debug\PFILME.csproj.AssemblyReference.cache
+C:\Users\0030482321026\source\repos\PFILME\PFILME\obj\Debug\PFILME.Form1.resources
+C:\Users\0030482321026\source\repos\PFILME\PFILME\obj\Debug\PFILME.Properties.Resources.resources
+C:\Users\0030482321026\source\repos\PFILME\PFILME\obj\Debug\PFILME.csproj.GenerateResource.cache
+C:\Users\0030482321026\source\repos\PFILME\PFILME\obj\Debug\PFILME.csproj.CoreCompileInputs.cache
+C:\Users\0030482321026\source\repos\PFILME\PFILME\bin\Debug\PFILME.exe.config
+C:\Users\0030482321026\source\repos\PFILME\PFILME\bin\Debug\PFILME.exe
+C:\Users\0030482321026\source\repos\PFILME\PFILME\bin\Debug\PFILME.pdb
+C:\Users\0030482321026\source\repos\PFILME\PFILME\obj\Debug\PFILME.exe
+C:\Users\0030482321026\source\repos\PFILME\PFILME\obj\Debug\PFILME.pdb
