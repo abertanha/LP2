@@ -1,0 +1,11 @@
+C:\Users\0030482321026\source\repos\PDisastre030482321026\PDisastre030482321026\bin\Debug\PDisastre030482321026.exe.config
+C:\Users\0030482321026\source\repos\PDisastre030482321026\PDisastre030482321026\bin\Debug\PDisastre030482321026.exe
+C:\Users\0030482321026\source\repos\PDisastre030482321026\PDisastre030482321026\bin\Debug\PDisastre030482321026.pdb
+C:\Users\0030482321026\source\repos\PDisastre030482321026\PDisastre030482321026\obj\Debug\PDisastre030482321026.csproj.AssemblyReference.cache
+C:\Users\0030482321026\source\repos\PDisastre030482321026\PDisastre030482321026\obj\Debug\PDisastre030482321026.frmPrincipal.resources
+C:\Users\0030482321026\source\repos\PDisastre030482321026\PDisastre030482321026\obj\Debug\PDisastre030482321026.Properties.Resources.resources
+C:\Users\0030482321026\source\repos\PDisastre030482321026\PDisastre030482321026\obj\Debug\PDisastre030482321026.csproj.GenerateResource.cache
+C:\Users\0030482321026\source\repos\PDisastre030482321026\PDisastre030482321026\obj\Debug\PDisastre030482321026.csproj.CoreCompileInputs.cache
+C:\Users\0030482321026\source\repos\PDisastre030482321026\PDisastre030482321026\obj\Debug\PDisastre030482321026.exe
+C:\Users\0030482321026\source\repos\PDisastre030482321026\PDisastre030482321026\obj\Debug\PDisastre030482321026.pdb
+C:\Users\0030482321026\source\repos\PDisastre030482321026\PDisastre030482321026\obj\Debug\PDisastre030482321026.frmTipo.resources
